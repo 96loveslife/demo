@@ -1,0 +1,17 @@
+{
+    "name": "XXXX",
+    "symbol": "XXXX",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ],
+    "extensions": {
+      "telegram": "https://t.me/orca_so",
+      "website": "https://orca.so"
+    }
+  }
